@@ -7,9 +7,6 @@ import android.os.Bundle;
 import android.widget.TextView;
 
 public class ProfileBundleActivity extends AppCompatActivity {
-    public static final String USERNAME_KEY = "username";
-    public static final String NAME_KEY = "name";
-    public static final String AGE_KEY = "age";
     private TextView usernameText;
     private TextView nameText;
     private TextView ageText;
